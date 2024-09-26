@@ -1,2 +1,2 @@
 # codeC-
-C++
+cau truc du lieu va giai thuat c++
